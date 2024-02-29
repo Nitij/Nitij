@@ -7,4 +7,4 @@
 <a href="https://www.youtube.com/c/coderadiance" target="blank">YouTube</a>
   <a href="https://discord.gg/Jb9EQhhe4h" target="blank">Discord</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitij&color=red" alt="nitij" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nitij&color=red" alt="nitij" /> </p>
